@@ -4,7 +4,7 @@ numpy==1.25.1
 scipy==1.10.1
 paramiko == 3.4.0
 klayout == 0.29.2
-gdstk == 0.9.52
+gdstk == 0.9.55
 gdspy == 1.6.13
 scp == 0.15.0
 prefab == 1.1.6
